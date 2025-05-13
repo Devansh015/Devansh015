@@ -6,8 +6,7 @@ public class Devansh
 {
   private int age = 20;
   public String[] traits = new String[] { "dumb", "passionate", "nerd" };
-  public String[] hobbies = new String[] { "Coding", "film", "investing", "swimming", "sleeping" };
-  public String[] philosphy = new String[] {"We used to look up at the sky and wonder at our place in the stars"}
+  public String[] hobbies = new String[] { "Coding", "film", "investing", "sleeping" };
 }
 ```
 
