@@ -1,5 +1,4 @@
 # Hi, I'm Devansh Jain! 👋
-I'm interested in fullstack development as well as AI/ML engineering 
 
 ```java
 public class Devansh
@@ -9,6 +8,7 @@ public class Devansh
   public String[] hobbies = new String[] { "Coding", "film", "investing", "sleeping" };
 }
 ```
+I'm interested in fullstack development as well as AI/ML engineering 
 
 ## About Me 
 - studying computer science at wilfrid laurier university 
