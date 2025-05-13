@@ -1,4 +1,4 @@
-# **Hi, I'm Devansh Jain!** 👋
+# Hi, I'm Devansh Jain! 👋
 I'm interested in fullstack development as well as AI/ML engineering 
 
 ```java
