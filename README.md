@@ -1,4 +1,4 @@
-# **Hi, I'm Devansh!**
+# **Hi, I'm Devansh!** 👋
 I'm interested in fullstack development as well as AI/ML engineering 
 
 ## About Me 
