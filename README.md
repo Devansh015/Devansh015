@@ -5,6 +5,7 @@ I'm interested in fullstack development as well as AI/ML engineering
 - studying computer science at wilfrid laurier university 
 - contributed to building awesome projects previously at OneDrug, Riipen, and Accumine Tech
 - love film, lifting, and investing
+'''java
 - public class Aidan
 {
   private int age = 20;
