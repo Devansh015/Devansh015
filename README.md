@@ -10,7 +10,7 @@ public class Devansh
 ```
 I'm interested in fullstack development and AI/ML engineering!
 
-## About Me 
+## 🌱 About Me 
 - studying computer science at wilfrid laurier university 
 - contributed to building awesome projects previously at onedrug, riipen, and accumine tech
 - previously lived in india and saint kitts and nevis 
