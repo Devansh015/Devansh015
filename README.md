@@ -15,7 +15,7 @@ I'm interested in fullstack development and AI/ML engineering!
 - contributed to building awesome projects previously at onedrug, riipen, and accumine tech
 - previously lived in india and saint kitts and nevis 
 
-## Let's Connect
+## 📫 Let's Connect
 - [linkedin](https://www.linkedin.com/in/devansh-jain-45a376224/?originalSubdomain=ca)
 - [email](devansh_jain@outlook.com)
 - [instagram](https://www.instagram.com/devxnshjxin)
