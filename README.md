@@ -16,6 +16,7 @@ I'm interested in fullstack development and AI/ML engineering!
 - previously lived in india and saint kitts and nevis 
 
 ## 📫 Let's Connect
-- [linkedin](https://www.linkedin.com/in/devansh-jain-45a376224/?originalSubdomain=ca)
-- [email](devansh_jain@outlook.com)
-- [instagram](https://www.instagram.com/devxnshjxin)
+- [Linkedin](https://www.linkedin.com/in/devansh-jain-45a376224/?originalSubdomain=ca)
+- [Email](devansh_jain@outlook.com)
+- [Instagram](https://www.instagram.com/devxnshjxin)
+- X(Twitter)(https://x.com/__devanshjain)
