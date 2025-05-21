@@ -19,4 +19,4 @@ I'm interested in fullstack development and AI/ML engineering!
 - [Linkedin](https://www.linkedin.com/in/devansh-jain-45a376224/?originalSubdomain=ca)
 - [Email](devansh_jain@outlook.com)
 - [Instagram](https://www.instagram.com/devxnshjxin)
-- X(Twitter)(https://x.com/__devanshjain)
+- [X](https://x.com/__devanshjain)(https://x.com/__devanshjain) 
