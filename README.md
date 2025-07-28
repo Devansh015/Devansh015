@@ -13,7 +13,7 @@ I'm interested in fullstack development and AI/ML engineering!
 ## 🌱 About Me 
 - rising junior and studying computer science at wilfrid laurier university 
 - contributed to awesome projects previously at onedrug, riipen, and accumine tech
-- currently @ jain consultants as a software & mechanical engineering intern 
+- currently @ jain consultants as a software engineering intern 
 
 ## 📫 Let's Connect
 → [LinkedIn](https://www.linkedin.com/in/devansh-jain-45a376224/?originalSubdomain=ca)  
