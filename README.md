@@ -11,7 +11,7 @@ public class Devansh
 I'm interested in fullstack development and AI/ML engineering!
 
 ## 🌱 About Me 
-- rising junior and studying computer science at wilfrid laurier university 
+- studying computer science @ wilfrid laurier university 
 - contributed to awesome projects previously at onedrug, riipen, and accumine tech
 - currently @ jain consultants as a software engineering intern 
 
