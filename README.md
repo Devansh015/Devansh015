@@ -17,6 +17,6 @@ I'm interested in fullstack development and AI/ML engineering!
 
 ## 📫 Let's Connect
 → [LinkedIn](https://www.linkedin.com/in/devansh-jain-45a376224/?originalSubdomain=ca)  
-→ [My Personal Website](1ZA6D3650402084892)  
+→ [My Personal Website](https://devanshjain.me)  
 → [Email](mailto:devansh_jain@outlook.com)  
 → [X (Twitter)](https://x.com/__devanshjain)
