@@ -1,4 +1,4 @@
-# Hi, I'm Devansh Jain! 👋
+# Hi, I'm Devansh Jain! 
 
 ```java
 public class Devansh
