@@ -4,7 +4,7 @@
 public class Devansh
 {
   private int age = 20;
-  public String[] traits = new String[] { "dumb", "passionate", "nerd" };
+  public String[] traits = new String[] { "stubborn", "passionate", "sci-fi fan" };
   public String[] hobbies = new String[] { "coding", "film", "investing", "sleeping" };
 }
 ```
