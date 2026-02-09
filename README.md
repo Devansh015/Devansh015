@@ -20,3 +20,5 @@ I'm interested in fullstack development and AI/ML engineering!
 → [My Personal Website](https://devanshjain.me)  
 → [Email](mailto:devansh_jain@outlook.com)  
 → [X (Twitter)](https://x.com/__devanshjain)
+
+![](https://komarev.com/ghpvc/?username=Devansh015&abbreviated=true&style=for-the-badge&color=2a2a2a)
