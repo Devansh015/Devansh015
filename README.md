@@ -5,7 +5,7 @@ public class Devansh
 {
   private int age = 20;
   public String[] traits = new String[] { "stubborn", "passionate", "sci-fi fan" };
-  public String[] hobbies = new String[] { "coding", "film", "investing", "sleeping" };
+  public String[] hobbies = new String[] { "programming", "film", "investing", "sleeping" };
 }
 ```
 I'm interested in fullstack development and AI/ML engineering!
