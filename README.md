@@ -22,5 +22,3 @@ I'm interested in fullstack development and AI/ML engineering!
 → [X (Twitter)](https://x.com/__devanshjain)
 
 ![](https://komarev.com/ghpvc/?username=Devansh015&abbreviated=true&style=for-the-badge&color=2a2a2a)
-
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Devansh015&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
