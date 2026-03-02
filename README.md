@@ -8,7 +8,7 @@ public class Devansh
   public String[] hobbies = new String[] { "programming", "film", "investing", "sleeping" };
 }
 ```
-I'm interested in full-stack development and AI/ML engineering!
+I'm interested in full-stack development and AI/ML engineering.
 
 ## 🌱 About Me 
 - studying computer science @ wilfrid laurier university 
