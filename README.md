@@ -13,7 +13,7 @@ I'm interested in full-stack development and AI/ML engineering.
 ## 🌱 About Me 
 - studying computer science @ wilfrid laurier university 
 - contributed to awesome projects previously at jain consultants, onedrug, and accumine tech
-- currently looking for summer 2026 internships
+- currently looking for summer/fall 2026 internships
 
 ## 📫 Let's Connect
 → [LinkedIn](https://www.linkedin.com/in/devansh-jain-45a376224/?originalSubdomain=ca)  
